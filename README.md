@@ -1,18 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Created a Hello Microverse Project
+# Project Name Milestone 1
 
-> Description the project. Added the following:
--Linters
--Html file
--gitignore file
--Styled the headers
--updated read me
--created a pull request
+> Description the project.
+> Added linters file
+> Added html file
+> Styled header
+> Added gitignore
+> Created a pull request
 
-Thank you in advance for reviewing my project and for your continous support.
 
-## Built With html and css
+## Built With HTML AND CSS
 
 - Major languages
 - Frameworks
@@ -49,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1** Martin James
 
-- GitHub: [@githubhandle](https://https://github.com/M20Jay)
+- GitHub: [@githubhandle](https://github.com/M20Jay)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
@@ -75,7 +73,7 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
+## 📝 Licensemj
 
 This project is [MIT](./LICENSE) licensed.
 
