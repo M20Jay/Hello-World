@@ -2,7 +2,7 @@
 
 Hello Microverse!
 > Description the project.
-In this project, I set up a "Hello world" repository. No hard coding is required for this project. My aim is to master all codes and tools learned about i previous steps.
+In this project, I set up a "Hello world" repository. No hard coding is required for this project. My aim is to master all codes and tools learned about in previous steps.
 ## Built With 
 HTML &CSS
 
