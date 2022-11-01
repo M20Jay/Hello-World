@@ -2,25 +2,10 @@
 # Project Name Milestone 1
 
 > Description the project.
-In this project, I set up a "Hello world" repository. No complex coding is required for this exercise. I aim to master the tools and best practices you learned about in previous steps.
+This is a "Hello world" project. It focuses on enhancing knowledge of the tools and best practices you learned in the previous steps.
 
-
-## Built With HTML &CSS
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+## Built With 
+HTML &CSS
 
 To get a local copy up and running follow these simple example steps.
 
@@ -35,14 +20,12 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-
-
-
 ## Authors
 
-👤 **Author1** Martin James 2
+👤 **Author1** Martin James 
 
 - GitHub: [@githubhandle](https://github.com/M20Jay)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/martin-james-nganga)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -58,7 +41,6 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 Licensemj
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
