@@ -3,14 +3,15 @@
 # Project Name Milestone 1
 
 > Description the project.
-> Added linters file
-> Added html file
-> Styled header
-> Added gitignore
-> Created a pull request
+> Add linters file
+> Add html file
+> Style header
+> Add gitignore
+> Modify stylecss
+> 
 
 
-## Built With HTML AND CSS
+## Built With HTML &CSS
 
 - Major languages
 - Frameworks
@@ -45,18 +46,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1** Martin James
+👤 **Author1** Martin James 2
 
 - GitHub: [@githubhandle](https://github.com/M20Jay)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
