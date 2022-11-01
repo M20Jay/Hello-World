@@ -3,12 +3,7 @@
 # Project Name Milestone 1
 
 > Description the project.
-> Add linters file
-> Add html file
-> Style header
-> Add gitignore
-> Modify stylecss
-> 
+In this project, I set up a "Hello world" repository. No complex coding is required for this exercise. I aim to master the tools and best practices you learned about in previous steps.
 
 
 ## Built With HTML &CSS
